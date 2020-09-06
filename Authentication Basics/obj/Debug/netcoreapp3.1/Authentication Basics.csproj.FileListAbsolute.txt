@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.exe
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.deps.json
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.runtimeconfig.json
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.dll
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.pdb
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.AssemblyInfo.cs
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\staticwebassets\Authentication Basics.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\staticwebassets\Authentication Basics.StaticWebAssets.xml
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.dll
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.pdb
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.genruntimeconfig.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.Views.dll
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\bin\Debug\netcoreapp3.1\Authentication Basics.Views.pdb
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.TagHelpers.input.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.TagHelpers.output.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.Views.pdb
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Authentication Basics.csproj.CopyComplete
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\Repository\ASP.NET Core\Authentication Basics\Authentication Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
